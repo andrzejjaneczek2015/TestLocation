@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(MainActivity.this, "wewewe", Toast.LENGTH_SHORT).show();
+
+        //
     }
 
     @Override
